@@ -1,0 +1,2 @@
+Rcc'ing Lab13.qrc...;C:\Qt\5.10.1\msvc2017_64\\bin\rcc.exe;"C:\Users\ad\Desktop\CS\Anul I\OOP\Lab13\Lab13\Lab13.qrc" -o ".\GeneratedFiles\qrc_Lab13.cpp" --name Lab13
+Uic'ing Lab13.ui...;C:\Qt\5.10.1\msvc2017_64\\bin\uic.exe;"C:\Users\ad\Desktop\CS\Anul I\OOP\Lab13\Lab13\Lab13.ui" -o ".\GeneratedFiles\ui_Lab13.h"
